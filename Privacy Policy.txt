@@ -1,20 +1,15 @@
 Privacy Policy
 
-Automatiza PR uses SMS communications to send appointment reminders, customer support updates, quotations, service notifications, and automation-related communications requested by customers.
+Riaza Laboratory uses SMS communications solely for appointment reminders, laboratory scheduling updates, and patient support communications.
 
-Customers provide consent to receive messages by:
-- Contacting us directly
-- Submitting forms
-- Calling our business
-- Messaging through Facebook, WhatsApp, or our automation systems
+Patients provide consent to receive SMS reminders during the appointment scheduling process at the laboratory or through direct communication with staff.
 
-We do not sell or share customer information with third parties for marketing purposes.
+No marketing or promotional messages are sent.
 
-Customers may opt out at any time by replying STOP.
+Patients may reply STOP to opt out at any time or HELP for assistance.
 
-For assistance, reply HELP or contact us directly.
+Message and data rates may apply.
 
-Business Name: Automatiza PR
-Website: https://automatiza-pr.com
-Email: contacto@automatiza-pr.com
-Phone: 939-254-5301
+Business Name: Riaza Laboratory
+Website: laboratorioriaza.com
+Phone: 787-963-0977
